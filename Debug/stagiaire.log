@@ -1,0 +1,7 @@
+﻿  mainstagiaire.cpp
+C:\Users\Hp\Desktop\poo cpp\stagiaire\mainstagiaire.cpp(9,6): error C2819: le type 'stage::stagiaire' n'a pas d'opérateur 'operator ->' de membre surchargé
+C:\Users\Hp\Desktop\poo cpp\stagiaire\stagiaire.h(11): message : voir la déclaration de 'stage::stagiaire'
+C:\Users\Hp\Desktop\poo cpp\stagiaire\mainstagiaire.cpp(9,6): message : voulez-vous utiliser '.' à la place ?
+C:\Users\Hp\Desktop\poo cpp\stagiaire\mainstagiaire.cpp(9,21): error C2232: '->stage::stagiaire::affichernote1' : opérande gauche avec type 'class', utilisez '.'
+  stagiaire.cpp
+  Génération de code en cours...
